@@ -1,0 +1,63 @@
+body{
+  background: url(bg.jpg
+  );
+    background-size: cover;
+
+}
+#main_title h3{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color:yellow;
+    width: 60%;
+    height: 50px;
+
+    margin: 10px;
+
+}
+a:hover{
+    color: purple;
+}
+
+button{
+    background-color: aqua;
+     color: blue;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+   
+    }
+
+   #main_header{
+
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+   } 
+   #main_title{
+    width: 30%;
+
+   }
+  
+   #btn{
+    margin-left: 380px;
+   }
+    #p1{
+        color: white;
+
+        height: 150px;
+        width: 50%;
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: 100px;
+    }
+  textarea{
+    mix-blend-mode: color-burn;
+    color:black;
+  }
+  #btn2{
+    margin-top: 120px;
+    margin-left: 50px;
+  }
